@@ -1,0 +1,1 @@
+{"duration": 5.016175270080566, "input_args": {"index_file_path": "'/home/lesteve/scikit_learn_data/lfw_home/pairsDevTrain.txt'", "data_folder_path": "'/home/lesteve/scikit_learn_data/lfw_home/lfw_funneled'", "slice_": "(slice(70, 195, None), slice(78, 172, None))", "color": "False", "resize": "0.5"}, "time": 1725076706.264443}
